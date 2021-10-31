@@ -1,4 +1,10 @@
 # Toggles-LED-with-push-buttom-Atmega328p-AVR-Studio
 It toggles the LED only once for one push of the button regardless of the duration the button is pressed.
 # FLOW CHART
-![Test Image 4]https://github.com/hiibrarahmad/Toggles-LED-with-push-buttom-Atmega328p-AVR-Studio/blob/6faccd7787a0da5a4c4a171a3649e97be5742e06/Toggles%20LED%20with%20push%20buttom%20Atmega328p%20AVR%20STUDIO/FLOW%20CHART.png
+![FLOW CHART](https://user-images.githubusercontent.com/46841978/139584679-2c97cc32-4957-4f6f-8c06-d2b90a923eae.png)
+
+# Proteus Diagram
+![Screenshot (1)](https://user-images.githubusercontent.com/46841978/139584710-8b3af26e-d4b7-450b-bcd8-7ebb3f70f6f3.png)
+
+
+
